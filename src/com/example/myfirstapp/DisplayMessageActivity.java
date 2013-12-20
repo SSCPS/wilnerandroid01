@@ -64,5 +64,6 @@ public class DisplayMessageActivity extends Activity {
 		}
 		return super.onOptionsItemSelected(item);
 	}
-
 }
+
+
